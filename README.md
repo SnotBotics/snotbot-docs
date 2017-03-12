@@ -1,0 +1,2 @@
+# snotbot-docs
+Snotbot Documentation
